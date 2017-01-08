@@ -1,31 +1,27 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 石磊的个人介绍
+keywords: Lei Shi, 石磊
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是石磊，一名小小的程序员。
+在西安。
 
 仰慕「优雅编码的艺术」。
 
 ## 坚信
 
-* 熟能生巧
-* 努力改变人生
+* 代码改变人生
+* 尝试
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/mzlogin)
-* 掘金：[@mzlogin](http://gold.xitu.io/user/570ddaeb2e958a005c63b2da)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/mazhuang)
-* 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
-* 知乎: [@mzlogin](http://www.zhihu.com/people/mzlogin)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/freedim)
+* GitHub：[@xjtushilei](https://github.com/xjtushilei)
+* 豆瓣: [@xjtushilei@foxmail](mailto:xjtushilei@foxmail?subject=visit+shilei.link+Home&body=Hello！shilei,)
 
 ## Skill Keywords
 
