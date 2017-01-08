@@ -35,6 +35,10 @@ navs:
     label: 分类
 
   -
+    href: /open-source/
+    label: 项目
+
+  -
     href: /wiki/
     label: 维基
 
