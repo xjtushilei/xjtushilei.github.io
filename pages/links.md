@@ -10,7 +10,4 @@ permalink: /links/
 
 > 没有链接的博客是孤独的.
 
-* [Connie酱](http://biedan.org)
-* [只宁静不致远](http://zxning.github.io/)
-* [Blog Something](http://chenxiaoyoyo.github.io)
-* [码志](http://mazhuang.org)
+* [郭朝彤](http://guozhaotong.top)
