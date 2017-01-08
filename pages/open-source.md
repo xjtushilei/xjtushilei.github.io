@@ -1,10 +1,8 @@
 ---
 layout: default
-title: 石磊|开源项目
+title: Open Source Projects
 keywords: 开源,open-source,GitHub,开源项目
-description: 石磊的开源项目。
-comments: true
-menu: 项目
+description: 开源改变世界。
 permalink: /open-source/
 ---
 
