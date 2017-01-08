@@ -16,12 +16,12 @@ permalink: /about/
 ## 坚信
 
 * 代码改变人生
-* 尝试
+* 尝试各种技术
 
 ## 联系
 
 * GitHub：[@xjtushilei](https://github.com/xjtushilei)
-* 豆瓣: [@xjtushilei@foxmail](mailto:xjtushilei@foxmail?subject=visit+shilei.link+Home&body=Hello！shilei,)
+* E-mail: [@xjtushilei@foxmail.com](mailto:xjtushilei@foxmail?subject=visit+shilei.link+Home&body=Hello！shilei,)
 
 ## Skill Keywords
 
