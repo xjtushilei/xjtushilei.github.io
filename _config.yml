@@ -4,8 +4,8 @@
 baseurl:
 url: http://shilei.link
 date_format: "ordinal"
-title: 石磊
-subtitle: "代码改变人生"
+title: Shilei
+subtitle: "The code changes life!"
 description: "石磊的个人博客"
 keywords: 石磊, 郭朝彤, 西安交通大学, 交大吴奇隆
 favicon: /favicon.ico
@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 石磊
-organization: 陕西省天地网技术重点实验室.
+author: Shilei
+organization: Shaanxi Key Lab. of Satellite-Terrestrial Network Tech. R&D.
 organization_url: http://labs.xjtudlc.com/labs/index.html
 location: Xi'an, China
 email: xjtushilei@foxmail.com
@@ -28,27 +28,27 @@ email: xjtushilei@foxmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: categories
 
   -
     href: /open-source/
-    label: 项目
+    label: Projects
 
   -
     href: /wiki/
-    label: 维基
+    label: Wiki
 
   -
     href: /links/
-    label: 链接
+    label: Links
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
