@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sparql和elasticsearch构建知识图谱搜索引擎
-categories: Knowledge Graph
+categories: KnowledgeGraph ElasticSearch sparql java
 description: sparql和elasticsearch构建知识图谱搜索引擎是最新实验室的给mooc中国的项目的主要技术。
 keywords: sparql, ElasticSearch, 知识图谱, mooc, jena
 ---
