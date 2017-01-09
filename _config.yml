@@ -113,6 +113,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, Html/Js, C++, Nosql,ElasticSearch]
-skill_mobile_app_keywords: [Android, Html5]
-skill_windows_keywords: [Windows server, Apache, Nigix, Office]
+Language_keywords: [Java, Html/Js, C++, Nosql,ElasticSearch]
+skill_mobile_app_keywords: [Html5, Android]
+Server_keywords: [Linux, Windows server, Apache, Nigix, Office, Power Design]
