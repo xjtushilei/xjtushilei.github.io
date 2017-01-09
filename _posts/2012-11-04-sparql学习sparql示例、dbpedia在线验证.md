@@ -12,7 +12,7 @@ keywords: KnowledgeGraph, sparql, dbpedia
 **所有的语句可以在wiki网站的[dbpedia在线查询网站](http://dbpedia.org/sparql)在线测试。**
 
 
-## select
+# select
 
 - select的第1个
 
