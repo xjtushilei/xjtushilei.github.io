@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FalDroid Demo</title>
+<link href="css/indexstyle.css" rel="stylesheet" type="text/css" media="all"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="http://cdn.bootcss.com/jquery/3.1.0/jquery.js"></script>
+<script type="text/javascript" src="js/mycookie.js"></script>
+</head>
+<body>
+
+<h1 align="center" style="color: white;font-family: Arial;font-size: 50px;margin-top: 170px;">FalDroid Demo</h1>
+<!--search start here-->
+<div class="search">
+	<i> </i>
+	<div class="s-bar">
+	   <form id="searchform" >
+		<input id="input" type="text" name="q" value="Please Input"  onblur="if (this.value == '') {this.value = 'Please Input';}" >
+		<input id="search" type="button"  value="Go !" onclick="go()" />
+	  </form>
+	</div>
+
+    <p>Recent Input: 
+    <a href="#" onclick="hot(this)">xxxx</a> , 
+    <a href="#" onclick="hot(this)">xxxxxxxxxxxxx</a>
+    </p>
+
+</div>
+<div class="copyright" align="center" style="position:absolute;bottom:30px;width:100%;">
+     <p>2016 &copy XJTU All rights reserved | <a href="http://labs.xjtudlc.com/labs/index.html" target="_blank">  Shaanxi Key Lab. of Satellite-Terrestrial Network Tech. R&D </a>, <a href="http://www.xjtu.edu.cn/" target="_blank">  Xi'an Jiaotong University</a></p>
+</div>  
+
+
+
+
+
+<script type="text/javascript">
+    function hot(a){
+        $("#input").val(a.text);
+    }
+
+    function go(){
+        setCookie("q",$("#input").val(),"d300");
+        window.location.href="step1.html";
+    }
+
+</script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+/* 
+* @Author: 石磊
+* @Date:   2016-03-01 22:33:48
+* @Last Modified by:   anchen
+* @Last Modified time: 2016-04-13 21:09:34
+*/
+
+/*搜索结果  数量，时间显示*/
+.timetext{
+    text-align:center;
+    font-size:12px;
+}
+.content-header{
+    padding:8px;
+}
+/*list*/
+.leftlist{
+    /*margin-left:1px;*/
+}
+
+/*box距离*/
+.box{
+    margin-bottom: 2px;
+}
+/*box最上面的距离*/
+.content{
+    padding: 10px;
+}
+/*boxtitile在左，时间在右*/
+.box-title{
+    float: left;
+    display:inline-block ;
+}
+.date{
+    float: right;
+    color : #999999;
+    font-size: 14px;
+    display:inline-block ;
+}
+
+
+
+
+/*搜索框按钮*/
+.skin-blue .wrapper .input-group .form-control{
+    background: rgba(255, 255, 255, 0.2);
+    border-color: transparent;
+}
+.skin-blue .sidebar-form .btn{
+   background:#d9d9d9;
+}
+.skin-blue .sidebar-form{
+    border: 1px solid #4c8dbc !important;
+}
+.input-group .form-control{
+    display: inline !important; 
+    width:80%;
+}
+.input-group {
+    display: inline !important; 
+}
+.input-group-btn{
+     display: inline !important;  
+}
+
+
+
