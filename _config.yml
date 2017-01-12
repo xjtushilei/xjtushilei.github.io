@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://shilei.link
+url: http://xjtushlei.com
 date_format: "ordinal"
 title: Shilei
 subtitle: "The code changes life!"
@@ -96,7 +96,7 @@ github_username: xjtushilei
 #      Comments    #
 # ---------------- #
 # support provider: disqus, duoshuo,sohu
-comments_provider: duoshuo
+comments_provider: sohu
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
 duoshuo_username: xjtushilei
