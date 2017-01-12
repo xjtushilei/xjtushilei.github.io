@@ -95,8 +95,8 @@ github_username: xjtushilei
 # ---------------- #
 #      Comments    #
 # ---------------- #
-# support provider: disqus, duoshuom,sohu
-comments_provider: sohu
+# support provider: disqus, duoshuo,sohu
+comments_provider: duoshuo
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
 duoshuo_username: xjtushilei
