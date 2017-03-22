@@ -60,7 +60,7 @@ Intellij更加智能的又一佐证是在任意菜单或显示窗口，都可以
 
 Ø  **调试**：**F7/F8/F9**分别对应Step into，Step over，Continue。
 
-此外还有些我自定义的，例如水平分屏**Ctrl+|**等，和一些神奇的小功能**Ctrl+Shift+V**粘贴很早以前拷贝过的，**Alt+Shift+Insert**进入到列模式进行按列选中。
+此外还有些我自定义的，例如水平分屏**Ctrl+|** 等，和一些神奇的小功能**Ctrl+Shift+V** 粘贴很早以前拷贝过的，**Alt+Shift+Insert** 进入到列模式进行按列选中。
 
 ## 7 最终榜单
 
