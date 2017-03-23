@@ -14,8 +14,8 @@
 
 两者同步更新！
 
-**[国外在线预览 &rarr;](http://shilei.link)**
+**[国外在线预览 &rarr;](http://xjtushilei.com)**
 
-**[国内在线预览 &rarr;](http://shilei.link)**
+**[国内在线预览 &rarr;](https://xjtushilei.coding.me )**
 
 
