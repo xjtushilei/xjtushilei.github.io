@@ -2,13 +2,12 @@
 layout: post
 title: Intellij IDEA 使用Spring-boot-devTools无效解决办法
 categories: [java,IDEA,html,Spring-boot]
-description: 这是我们的复杂网络大作业，田锋老师的课，这里将实验报告贴在这里，记录一下吧。
+description: 实验室的项目里用到的，跟商业公司合作，因此无法开源。。
 keywords: java, idea
 ---
 
-# Intellij IDEA 使用Spring-boot-devTools进行热加载无效解决办法
 
-项目里用到了spring-boot。由于在修改前端的时候，需要频繁的预览样式，但是又不能每次都重启，太慢了。于是查到了这个很有帮助的方法！
+mooc中国的项目里用到了spring-boot，我提出并勇敢尝试的。由于在修改前端的时候，需要频繁的预览样式，但是又不能每次都重启，太慢了。于是查到了这个很有帮助的方法！
 
 # 1 maven配置
 
