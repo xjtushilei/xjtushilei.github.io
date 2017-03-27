@@ -20,8 +20,11 @@ permalink: /about/
 ## 联系
 
 * GitHub：[@xjtushilei](https://github.com/xjtushilei)
-* E-mail: [@xjtushilei@foxmail.com](mailto:xjtushilei@foxmail?subject=visit+shilei.link+Home&body=Hello！shilei,)
-* QQ:[@晨曦的光风乾最后一抹忧伤](http://wpa.qq.com/msgrd?v=3&uin=619983341&site=qq&menu=yes)
+* Coding.net：[@xjtushilei](https://coding.net/u/xjtushilei)
+* E-mail: [@xjtushilei@foxmail.com](mailto:xjtushilei@foxmail?subject=visit+xjtushilei.com+Home&body=Hello！shilei,)
+* QQ：[@晨曦的光风乾最后一抹忧伤](http://wpa.qq.com/msgrd?v=3&uin=619983341&site=qq&menu=yes)
+* InternetForum：[@xjtushilei](https://hacpai.com/member/xjtushilei)
+* Lab：[陕西省天地网技术重点实验室](http://labs.xjtudlc.com/labs/index.html)
 
 ## Skill Keywords
 
