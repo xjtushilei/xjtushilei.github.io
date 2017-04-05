@@ -30,7 +30,7 @@ spring-boot开发的爬虫项目，基于web的。java web的文件，或者java
 
 ![phantomjs.png](/images/blog/phantomjs.png) 
 
-##尝试
+## 尝试
 
 先看了log，没发现什么问题，然后google，也没有结果。由于经验不多，就手动进行了如下的尝试。
 
