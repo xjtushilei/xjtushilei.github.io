@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017-03-22-linux下java文件无权限运行问题
+title: linux下java文件无权限运行问题
 categories: [java,phantomjs,Spring-boot]
 description: 一个爬虫的项目，在Linux下运行。由于用到了phantomjs爬虫驱动，但是不可运行。
 keywords: java, phantomjs, Spring-boot
