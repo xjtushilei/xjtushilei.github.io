@@ -303,8 +303,6 @@ sub   2048R/91AAE050 2017-04-11
 
 以后的发布流程是：
 
-以后的发布流程：
-
 1. 构件准备好之后，在命令行上传构建
 
 2. 在 [https://oss.sonatype.org/](https://oss.sonatype.org/) “close”并“release”构件
