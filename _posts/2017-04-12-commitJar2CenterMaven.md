@@ -71,7 +71,7 @@ pub   2048R/CAD14E5B 2017-04-11
 uid       [ultimate] shilei <xjtushilei@foxmail.com>
 sub   2048R/91AAE050 2017-04-11
 ```
-我的公钥是：`**CAD14E5B**`
+我的公钥是：**`CAD14E5B`**
 
 4. 将公钥发布到 PGP 密钥服务器
 
@@ -275,9 +275,9 @@ sub   2048R/91AAE050 2017-04-11
 
 ![3.png](/images/blog/commitJar2CenterMaven/3.png) 
 
-如果是发布的话，请注意artifactId不能是 `**-SNAPSHOT**` 
+如果是发布的话，请注意artifactId不能是 **`-SNAPSHOT`** 
 
-因为从截图看（经过证明），一旦你的issue第一次被批准，你就可以发布`**-SNAPSHOT**`了，而且我当时尝试了使用我的`**-SNAPSHOT**`版本的jar，并不需要进行后续操作。
+因为从截图看（经过证明），一旦你的issue第一次被批准，你就可以发布**`-SNAPSHOT`**了，而且我当时尝试了使用我的**`-SNAPSHOT`**版本的jar，并不需要进行后续操作。
 
 ## 等待构件审批通过
 
