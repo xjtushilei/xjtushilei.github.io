@@ -10,11 +10,18 @@ keywords: java, jar, 分布式爬虫，redis优先队列
 
 # ScriptSpider
 
+
 ScriptSpider（以下简称SS），做一个好用的爬虫框架。
 
 目前的功能已经够大多数情况下使用，ScriptSpider会朝着易用、高度、最新技术的方向发展！
 
 欢迎 **Star** 和 **Fork** 我的项目！算是给点鼓励也好（嘿嘿）
+
+# 项目主页
+
+* 国外：[@github](https://github.com/xjtushilei/ScriptSpider)
+* 国内：[@coding.net](https://coding.net/u/xjtushilei/p/ScriptSpider/git)
+
 
 # 特点
 
