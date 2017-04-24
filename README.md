@@ -14,8 +14,10 @@
 
 两者同步更新！
 
-**[国外在线预览 &rarr;](http://xjtushilei.com)**
+**[国外在线预览 &rarr; http://xjtushilei.com](http://xjtushilei.com)**
 
-**[国内在线预览 &rarr;](https://xjtushilei.coding.me )**
+**[国内在线预览 &rarr; https://xjtushilei.coding.me](https://xjtushilei.coding.me )**
+
+**[国内在线预览 &rarr; http://scriptshilei.oschina.io](http://scriptshilei.oschina.io )**
 
 
