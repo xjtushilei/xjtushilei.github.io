@@ -12,7 +12,7 @@ keywords: java, 服务器，docker
 
 **源码 \-&gt; Gitlab \-&gt; Jenkins \-&gt; docker容器管理器**
 
-一个自动化的额流程，很是方便！
+一个自动化的流程，很是方便！
 
 # 源码
 
