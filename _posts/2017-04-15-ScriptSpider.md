@@ -73,7 +73,7 @@ ScriptSpider（以下简称SS），做一个好用的爬虫框架。
 在开始之前，你应该先了解该框架是如何工作的。
 
 ### 流程图
-![流程图](http://xjtushilei.com/images/github/ScriptSpider/流程图.png)
+![流程图](/images/github/ScriptSpider/流程图.png)
 
 基本上，你只需要提供“解析器”，“下载器”两个模块就好啦。
 
