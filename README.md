@@ -18,7 +18,7 @@
 
 两者同步更新！
 
-**[github托管 &rarr; http://xjtushilei.com](http://xjtushilei.github.io)**
+**[github托管 &rarr; http://xjtushilei.github.io](http://xjtushilei.github.io)**
 
 **[coding托管 &rarr; https://xjtushilei.com](http://xjtushilei.com )**
 
