@@ -28,23 +28,33 @@ permalink: /about/
 
 ## Skill Keywords
 
-#### Software Skill Keywords
+#### Professional Background
 <div class="btn-inline">
-    {% for keyword in site.skill_software_keywords %}
+    {% for keyword in site.Professional_Background %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
     {% endfor %}
 </div>
 
-#### Mobile Developer Keywords
+
+
+
+#### Back-end Skill Keywords
 <div class="btn-inline">
-    {% for keyword in site.skill_mobile_app_keywords %}
+    {% for keyword in site.Back_end %}
+    <button class="btn btn-outline" type="button">{{ keyword }}</button>
+    {% endfor %}
+</div>
+
+#### Fore-end Keywords
+<div class="btn-inline">
+    {% for keyword in site.Fore_end %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
     {% endfor %}
 </div>
 
 #### Server Developer Keywords
 <div class="btn-inline">
-    {% for keyword in site.Server_keywords %}
+    {% for keyword in site.skill_software_keywords %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
     {% endfor %}
 </div>

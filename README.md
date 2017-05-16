@@ -18,10 +18,10 @@
 
 两者同步更新！
 
-**[国外在线预览 &rarr; http://xjtushilei.com](http://xjtushilei.com)**
+**[github托管 &rarr; http://xjtushilei.com](http://xjtushilei.github.io)**
 
-**[国内在线预览 &rarr; https://xjtushilei.coding.me](https://xjtushilei.coding.me )**
+**[coding托管 &rarr; https://xjtushilei.com](http://xjtushilei.com )**
 
-**[国内在线预览 &rarr; http://scriptshilei.oschina.io](http://scriptshilei.oschina.io )**
+**[oschina托管 &rarr; http://scriptshilei.oschina.io](http://scriptshilei.oschina.io )**
 
 
