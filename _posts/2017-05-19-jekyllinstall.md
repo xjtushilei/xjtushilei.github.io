@@ -34,6 +34,10 @@ export PATH=$PATH:/home/ubuntu/.rvm/bin
 `source /etc/profile`
 
 
+###其实
+并不用添加到环境变量种，重启面板就好啦。 安装包自动帮你安装到了用户的环境变量里了。
+
+
 ## 安装 ruby
 
 查看目前有哪些ruby ： ` rvm list known`
