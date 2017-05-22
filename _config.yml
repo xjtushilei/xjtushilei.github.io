@@ -17,9 +17,9 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Shilei
-organization: Shaanxi Key Lab. of Satellite-Terrestrial Network Tech. R&D.
+organization: 陕西省天地网技术重点实验室.
 organization_url: http://labs.xjtudlc.com/labs/index.html
-location: Xi'an, China
+location: 西安, 中国
 email: xjtushilei@foxmail.com
 
 # ---------------- #
@@ -28,27 +28,27 @@ email: xjtushilei@foxmail.com
 navs:
   -
     href: /
-    label: Home
+    label: 主页
 
   -
     href: /categories/
-    label: categories
+    label: 分类
 
   -
     href: /open-source/
-    label: Projects
+    label: 项目
 
   -
     href: /wiki/
-    label: Wiki
+    label: 维基
 
   -
     href: /links/
-    label: Links
+    label: 链接
 
   -
     href: /about/
-    label: About
+    label: 关于
 
 # ---------------- #
 #       RSS        #

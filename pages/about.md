@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于我
 description: 石磊的个人介绍
 keywords: Lei Shi, 石磊
 comments: true
