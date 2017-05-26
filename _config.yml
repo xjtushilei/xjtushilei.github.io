@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://xjtushlei.com
+url: https://www.xjtushlei.com
 date_format: "ordinal"
 title_head: 石磊
 title: Shilei
-subtitle: "The code changes life!"
+subtitle: "代码改变人生！"
 description: "石磊的个人博客"
 keywords: 石磊, 郭朝彤, 西安交通大学, 交大吴奇隆
 favicon: /favicon.ico
@@ -29,7 +29,7 @@ email: xjtushilei@foxmail.com
 navs:
   -
     href: /
-    label: Home
+    label: 主页
 
   -
     href: /categories/
