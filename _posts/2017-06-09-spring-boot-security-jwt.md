@@ -1,7 +1,7 @@
 ---
 layout: post
 title: spring-security-jwt Restful API Token 安全认证
-categories: [ubuntu,Server,linux,nginx]
+categories: [spring-boot,java,spring-security]
 description: 自己尝试在基于spring-boot的restful API的安全认证上做的调研与测试。
 keywords: spring,security,jwt,Restful,Token,安全认证
 ---
