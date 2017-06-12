@@ -10,7 +10,7 @@ keywords: spring-boot,java,spring-cloud
 > 自学spring-cloud系列，越来越感觉spring-cloud很强大！
 >
 >主要分为以下几篇：
-> 1. [spring-cloud-config:分布式配置管理](http://www.xjtushilei.com/2017/06/12/2017-06-12-spring-cloud-series-spring-cloud-config)
+> 1. [spring-cloud-config:分布式配置管理](http://www.xjtushilei.com/2017/06/12/spring-cloud-series-spring-cloud-config)
 
 # 介绍
 
