@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring-Cloud系列第1篇：spring-cloud-eureka
+title: Spring-Cloud系列第2篇：spring-cloud-eureka
 categories: [spring-boot,java,spring-eureka]
 description: spring-cloud学习系列的第一篇，讲解spring-cloud-eureka 的故事，被动式的服务发现，统一监控和管理你的服务列表。
 keywords: spring-boot,java,spring-eureka
@@ -11,7 +11,7 @@ keywords: spring-boot,java,spring-eureka
 >
 >主要分为以下几篇：
 > 1. [spring-cloud-config:分布式配置管理](http://www.xjtushilei.com/2017/06/12/spring-cloud-series-spring-cloud-config)
-> 2. [spring-cloud-eureka:服务注册与发现](http://www.xjtushilei.com/2017/06/12/spring-cloud-series-spring-cloud-eureka)
+> 2. [spring-cloud-eureka:服务注册与发现](http://www.xjtushilei.com/2017/06/13/spring-cloud-series-spring-cloud-eureka)
 
 # 介绍
 
@@ -42,7 +42,7 @@ pom.xml:
 
 配置文件:
 
-```properties
+```yml
 server:
   port: 8761
 
@@ -91,7 +91,7 @@ public class SpringCloudConfigServerApplication {
 127.0.0.1 peer2
 ```
 节点1配置文件 `application-peer1.yml` ：
-```properties
+```yml
 server:
   port: 8761
 
@@ -111,7 +111,7 @@ eureka:
 
 节点2配置文件 `application-peer2.yml` ：
 
-```properties
+```yml
 server:
   port: 8762
 
