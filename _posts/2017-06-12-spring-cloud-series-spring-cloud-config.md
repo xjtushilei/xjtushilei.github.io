@@ -2,7 +2,7 @@
 layout: post
 title: Spring-Cloud系列第1篇：spring-cloud-config
 categories: [spring-boot,java,spring-cloud]
-description: spring-cloud学习系列的第一篇，讲解spring-cloud-config的故事，创建配置管理服务器及实现分布式配置管理应用。
+description: spring-cloud学习系列的第1篇，讲解spring-cloud-config的故事，创建配置管理服务器及实现分布式配置管理应用。
 keywords: spring-boot,java,spring-cloud
 ---
 
@@ -12,6 +12,7 @@ keywords: spring-boot,java,spring-cloud
 >主要分为以下几篇：
 > 1. [spring-cloud-config:分布式配置管理](http://www.xjtushilei.com/2017/06/12/spring-cloud-series-spring-cloud-config)
 > 2. [spring-cloud-eureka:服务注册与发现](http://www.xjtushilei.com/2017/06/13/spring-cloud-series-spring-cloud-eureka)
+> 3. [spring-cloud-eureka-consumer:远程服务调用和及其负载均衡](http://www.xjtushilei.com/2017/06/13/spring-cloud-series-spring-cloud-eureka-consumer)
 
 # 介绍
 
