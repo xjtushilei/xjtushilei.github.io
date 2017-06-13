@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring-Cloud系列第3篇：spring-cloud-eureka-consumer
-categories: [spring-boot,java,spring-eureka]
+categories: [spring-boot,java,spring-cloud]
 description: spring-cloud学习系列的第3篇，讲解spring-cloud-eureka-consumer 的故事，远程服务调用和及其负载均衡。
 keywords: spring-boot,java,spring-eureka
 ---
@@ -13,6 +13,8 @@ keywords: spring-boot,java,spring-eureka
 > 1. [spring-cloud-config:分布式配置管理](http://www.xjtushilei.com/2017/06/12/spring-cloud-series-spring-cloud-config)
 > 2. [spring-cloud-eureka:服务注册与发现](http://www.xjtushilei.com/2017/06/13/spring-cloud-series-spring-cloud-eureka)
 > 3. [spring-cloud-eureka-consumer:远程服务调用和及其负载均衡](http://www.xjtushilei.com/2017/06/13/spring-cloud-series-spring-cloud-eureka-consumer)
+> 4. [spring-cloud-Hystrix:熔断器保证服务高可用](http://www.xjtushilei.com/2017/06/13/spring-cloud-series-spring-cloud-Hystrix)
+
 
 # 介绍
 
