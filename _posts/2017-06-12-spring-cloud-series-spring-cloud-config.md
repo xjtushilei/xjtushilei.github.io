@@ -11,7 +11,7 @@ keywords: spring-boot,java,spring-cloud
 >
 >主要分为以下几篇：
 > 1. [spring-cloud-config:分布式配置管理](http://www.xjtushilei.com/2017/06/12/spring-cloud-series-spring-cloud-config)
-> 2. [spring-cloud-eureka:服务注册与发现](http://www.xjtushilei.com/2017/06/12/spring-cloud-series-spring-cloud-eureka)
+> 2. [spring-cloud-eureka:服务注册与发现](http://www.xjtushilei.com/2017/06/13/spring-cloud-series-spring-cloud-eureka)
 
 # 介绍
 
