@@ -76,6 +76,7 @@ eureka:
 
 需要额外的依赖，使用了feign来进行远程调用。
 
+
 pom.xml ： 
 ```xml
         <!--远程调用-->
@@ -84,6 +85,37 @@ pom.xml ：
             <artifactId>spring-cloud-starter-feign</artifactId>
         </dependency>
 ```
+
+创建一个接口：
+
+```java
+@Component
+@FeignClient(name = "eureka-client-1")
+public interface HelloRemoteInterface {
+
+    @RequestMapping(value = "/hi")
+    public String hi();
+}
+```
+这里的name就是你的那个服务的application.name。根据名字来调用，才能实现负载均衡嘛。
+
+使用接口，创建一个测试的controller：
+
+```java
+@RestController
+public class ConsumerController {
+
+    @Autowired
+    HelloRemoteInterface helloRemoteInterface;
+
+    @RequestMapping("/hello")
+    public String hello() {
+        return helloRemoteInterface.hi();
+    }
+}
+```
+
+
 
 同时，将我们的这个服务也注册到服务中心。
 
