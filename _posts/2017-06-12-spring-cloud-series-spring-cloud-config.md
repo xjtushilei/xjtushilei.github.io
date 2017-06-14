@@ -15,6 +15,7 @@ keywords: spring-boot,java,spring-cloud
 > 3. [spring-cloud-eureka-consumer:远程服务调用和及其负载均衡](http://www.xjtushilei.com/2017/06/13/spring-cloud-series-spring-cloud-eureka-consumer)
 > 4. [spring-cloud-Hystrix:熔断器保证服务高可用](http://www.xjtushilei.com/2017/06/13/spring-cloud-series-spring-cloud-Hystrix)
 > 5. [spring-cloud-config-eureka-ribbon:分布式配置管理的高可用](http://www.xjtushilei.com/2017/06/13/spring-cloud-series-spring-cloud-config-eureka)
+> 6. [spring-cloud-bus:配置信息的实时更新](http://www.xjtushilei.com/2017/06/14/spring-cloud-series-spring-cloud-bus)
 
 
 # 介绍
