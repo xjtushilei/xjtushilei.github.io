@@ -92,7 +92,7 @@ spring.rabbitmq.password=guest
 
 修改 git 里文件的值为`2222222222`
 
-利用postman 进行刷新操作
+github是有webhook的，你们公司私人的git应该也有webhook，但是github的webhook不能访问我localhost呀，所以这里利用postman 进行刷新操作来模拟webhook
 
 ![刷新](/images/blog/spring-clouds/14.png)
 
