@@ -14,5 +14,5 @@ permalink: /links/
 * [Our Love Story](http://lovestory.xjtushilei.com) - 我们的爱情故事
 * [黑客派](https://hacpai.com/) - 画家与黑客的聚集地
 * [陕西省天地网技术重点实验室](http://labs.xjtudlc.com/labs/index.html) - 自己的实验室
-
+* [小柒博客](https://blog.52itstyle.com) - 一个主JAVA，次架构，偶尔聊聊生活的地方 
 
