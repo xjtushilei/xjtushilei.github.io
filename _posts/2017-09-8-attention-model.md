@@ -2,12 +2,12 @@
 layout: post
 title: 自然语言处理中的Attention Model：是什么及为什么
 categories: [NLP, Deep-Learning]
-description: \[转\]通俗的解释自然语言处理中的Attention Model，特别是在文本处理方面来进行解释。
+description: 通俗的解释自然语言处理中的Attention Model，特别是在文本处理方面来进行解释。（本文转自于互联网）
 keywords: 自然语言处理, attention model, 深度学习
 ---
 
 
-> 版权声明：可以任意转载，转载时请标明文章[原始出处](http://blog.csdn.net/malefactor/article/details/50550211)和作者信息 . author: 张俊林       
+> 版权声明：可以任意转载，转载时请标明文章[原始出处](http://blog.csdn.net/malefactor/article/details/50550211)和作者信息：张俊林       
 
 要是关注深度学习在自然语言处理方面的研究进展，我相信你一定听说过Attention Model（后文有时会简称AM模型）这个词。AM模型应该说是过去一年来NLP领域中的重要进展之一，在很多场景被证明有效。听起来AM很高大上，其实它的基本思想是相当直观简洁的。本文作者可以对灯发誓：在你读完这篇啰里啰嗦的文章及其后续文章后，一定可以透彻了解AM到底是什么，以及轻易看懂任何有关论文看上去复杂的数学公式部分。怎么样，这广告打的挺有吸引力吧，尤其是对那些患有数学公式帕金森病的患者。
 
