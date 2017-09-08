@@ -2,7 +2,7 @@
 layout: post
 title: 自然语言处理中的Attention Model：是什么及为什么
 categories: [NLP, Deep-Learning]
-description: [转]通俗的解释自然语言处理中的Attention Model，特别是在文本处理方面来进行解释。
+description: \[转\]通俗的解释自然语言处理中的Attention Model，特别是在文本处理方面来进行解释。
 keywords: 自然语言处理, attention model, 深度学习
 ---
 
