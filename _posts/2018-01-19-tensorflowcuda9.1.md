@@ -12,7 +12,7 @@ keywords: Z370HD3, ubuntu, cuda, cudnn7, tensorflow
 
 # 背景
 
-主要就是遇到的各种坑，大家不要再范了。
+主要就是遇到的各种坑，大家不要再犯了。
 
 - 技嘉的主板Z370HD3 不支持ubuntu16.04，安装过程中会报错，有ACPI error，google各种无解，官方售后不支持linux服务，因为这是家用消费级别的主板。
 - 安装centos7.3，顺利安装，但是无线网卡不能正常运作，其他的操作系统cuda支持太可怜。
@@ -70,7 +70,7 @@ nvidia-smi
 
 下载网站: https://developer.nvidia.com/cuda-downloads
 
-![mobaxterm设置](/images/blog/tensorflowcuda9.1/1.png)
+![cuda9](/images/blog/tensorflowcuda9.1/1.png)
 
 然后需要安装c++等依赖包，确保gcc -v的版本在v6以上，当然，ubuntu17默认很高。
 
