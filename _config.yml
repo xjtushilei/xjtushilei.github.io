@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.xjtushilei.com
+url: https://www.xjtushilei.com
 date_format: "ordinal"
 title_head: 石磊
 title: Shilei
@@ -21,7 +21,7 @@ author: Shilei
 organization: Shaanxi Key Lab. of Satellite-Terrestrial Network Tech. R&D.
 organization_url: http://labs.xjtudlc.com/labs/index.html
 location: Xi'an, China
-email: xjtushilei@foxmail.com
+email: me@xjtushilei.com
 
 # ---------------- #
 #    Navigation    #
