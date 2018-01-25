@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 技嘉Gigabyte主板Z370HD3安装1080ti+ubuntu17.10+Cuda9.1+cudnn7+tensorflow
-categories: [java,jar,idea]
+categories: [ubuntu,cuda,NVIDIA]
 description: 技嘉的z370无法安装ubuntu16.04，tensorfolw最新版不支持cuda9.1，各种坑导致的错误
 keywords: Z370HD3, ubuntu, cuda, cudnn7, tensorflow
 ---
