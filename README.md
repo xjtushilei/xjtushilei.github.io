@@ -13,10 +13,10 @@
 
 两者同步更新！
 
-**[github托管 &rarr; http://xjtushilei.github.io](http://xjtushilei.github.io)** 
+**[github托管 &rarr; http://xjtushilei.github.io](http://xjtushilei.com )**
 
-**[coding托管 &rarr; https://xjtushilei.com](http://xjtushilei.com )** （已经停止服务）
+**[coding托管  ](http://xjtushilei.com )** （已经停止服务）
 
-**[oschina托管 &rarr; http://scriptshilei.oschina.io](http://scriptshilei.oschina.io )**（已经停止服务）
+**[oschina托管 ](http://scriptshilei.oschina.io )**（已经停止服务）
 
 
