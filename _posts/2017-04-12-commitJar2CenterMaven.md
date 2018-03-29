@@ -44,7 +44,7 @@ keywords: java, jar, 中央仓库
 
 ## 配置GPG
 
-如果是 Windows 操作系统，需要下载 [Gpg4win](http://gpg4win.org/) 软件来生成密钥对。建议大家下载 Gpg4win-Vanilla 版本，因为它仅包括 GnuPG，这个工具才是我们所需要的。
+如果是 Windows 操作系统，需要下载 [Gpg4win](http://gpg4win.org/) (2018年3月29日22:47:14下载该软件，win10不能正常使用，后来下载了低版本的才可用了)软件来生成密钥对。建议大家下载 Gpg4win-Vanilla 版本，因为它仅包括 GnuPG，这个工具才是我们所需要的。
 
 安装 GPG 软件后，打开命令行窗口，依次做以下操作：
 
