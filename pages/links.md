@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Links
 description: 没有链接的博客是孤独的
@@ -7,7 +7,8 @@ comments: true
 menu: Links
 permalink: /links/
 ---
- 
+
+
 > 没有链接的博客是孤独的。
 
 * [郭朝彤](http://guozhaotong.com) - 一个安静的小姑娘
