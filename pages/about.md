@@ -8,7 +8,7 @@ menu: About
 permalink: /about/
 ---
 
-我是石磊，一名小小的程序员，西安求学中。
+我是石磊，4名小小的程序员，西安求学中。
 
 ## 仰慕
 
@@ -26,6 +26,7 @@ permalink: /about/
 * E-mail: [xjtushilei@foxmail.com](mailto:xjtushilei@foxmail?subject=visit+xjtushilei.com+Home&body=Hello！shilei,你好)
 * QQ：[@晨曦的光风乾最后一抹忧伤](http://wpa.qq.com/msgrd?v=3&uin=619983341&site=qq&menu=yes)
 * InternetForum：[@黑客派-xjtushilei](https://hacpai.com/member/xjtushilei)
+* Zhihu：[@知乎-scriptshi](https://www.zhihu.com/people/scriptshi/activities)
 * Lab：[@陕西省天地网技术重点实验室](http://labs.xjtudlc.com/labs/index.html)
 * Contacts
     * Tutor： [@刘均](http://gr.xjtu.edu.cn/web/liukeen/1) 

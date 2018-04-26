@@ -4,11 +4,11 @@
 baseurl:
 url: https://www.xjtushilei.com
 date_format: "ordinal"
-title_head: 石磊
-title: Shilei
+title_head: ScriptShi
+title: ScriptShi
 subtitle: "代码改变人生！"
 description: "石磊(xjtushilei)的个人博客"
-keywords: 石磊, 郭朝彤, 西安交通大学, 交大吴奇隆, xjtushilei
+keywords: 石磊, 郭朝彤, 西安交通大学, 交大吴奇隆, xjtushilei, ScriptShi
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Shilei
+author: ScriptShi
 organization: Shaanxi Key Lab. of Satellite-Terrestrial Network Tech. R&D.
 organization_url: http://labs.xjtudlc.com/labs/index.html
 location: Xi'an, China
