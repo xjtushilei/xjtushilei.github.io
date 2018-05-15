@@ -116,8 +116,7 @@ google:
 #      Datas       #
 # ---------------- #
 
-Back_end: [Java, Python, Go, Mysql etc., MongoDB etc., Spring Family Bucket, System Architecture, ElasticSearch, Weixin, Keras]
+Back_end: [Java, Python, Go, Mysql, MongoDB, Redis, Etcd, Spring Family Bucket, RPC, Docker, DevOps, Operation, System Architecture, ElasticSearch, Weixin, Keras, Distributed system]
 Fore_end: [Html5, Js, Jquery, AngularJS, Vue, Bootstrap, Echarts, D3, Android]
-skill_software_keywords: [Linux, Windows server, Apache, Nigix, Tomcat, Maven, Gradle, Git, IDEA]
-Professional_Background: [Knowledge Graph, Sparql, Search, Natural Language Processing, Machine Learning, Deep Learning]
+Professional_Background: [Knowledge Graph, Sparql, Search, Natural Language Processing, Machine Learning, Deep Learning, WordEmbedding, Distributed system]
 
