@@ -37,13 +37,17 @@ keywords: windows 安装
 
 在conf文件夹下新建mongodb.config文件，内容如下：
 ```
-dbpath=E:\MongoDB\data #数据库路径
-logpath=E:\MongoDB\logs\mongodb.log #日志输出文件路径
-logappend=true #错误日志采用追加模式
-journal=true #启用日志文件，默认启用
-quiet=true #过滤掉无用的日志信息，若需要调试使用请设置为false
-port=27017 #端口号 默认为27017
-auth=false #开启用户认证
+systemLog:
+  destination: file
+  path: E:\data\mongo-log-server\logs\mongod.log
+  logAppend: true
+storage:
+  dbPath: E:\data\mongo-log-server\data
+net:
+  port: 27017
+  bindIp: 127.0.0.1
+#security:
+ # authorization: enabled
 ```
 
 
@@ -52,7 +56,7 @@ auth=false #开启用户认证
 
 添加为系统服务 PowerShell（Admin）(使用绝对路径)
   
-> M:\data\MongoDB3.4.1\bin\mongod.exe -config M:\data\MongoDB3.4.1\conf\mongodb.config -install -serviceName "MongoDB" 
+> E:\data\mongo-log-server\bin\mongod.exe --config E:\data\mongo-log-server\conf\mongod.cfg --install --serviceName mongologs --serviceDisplayName mongologs 
  
 启动服务  
 
@@ -61,26 +65,22 @@ auth=false #开启用户认证
 ## 外网安全
 3.X
 #### 创建用户
-在无认证环境下，创建全局用户
+在无认证环境下，创建全局用户,
+> 在哪个db下创建的用户，需要在哪个db进行认证。所以创建前注意use admin，切换到admin，以后，默认以admin进行创建
 
 ```
 db.createUser({  
-    user:'root',  
-    pwd:'yotta123',  
-    customData:{description:"管理员root"},  
-    roles:[{  
-        'role':'dbAdminAnyDatabase',
-        'db':'admin'  
-    },
-    {  
-        'role':'root',
-        'db':'admin'  
-    }]  
-})  
+        user:'root',  
+        pwd:'yotta123',  
+        roles:[{  
+           'role':'root',
+           'db':'admin'  
+       }]  
+    })  
 
 ```
 
-创建只读用户
+创建只读
 ```
 db.createUser({  
     user:'read-log-4-network-collage',  
@@ -130,7 +130,7 @@ auth=false #开启用户认证
 #### 测试
 
 ```
-db.auth("root","123456")
+db.auth("root","yotta123")
 ```
 返回1，测试成功
 
