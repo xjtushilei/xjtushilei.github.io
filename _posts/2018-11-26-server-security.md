@@ -162,3 +162,20 @@ DENY_THRESHOLD_ROOT = 3                      #允许root登陆失败的次数
 
     sshd:222.77.15.*:allow
 ```
+
+# 禁用密码登录
+
+1. `ssh-keygen -t rsa` 生成密钥和私钥 ，并将 `id_rsa` 保存到自己电脑上，尽量将服务器上的删掉
+2. `cat /root/.ssh/id_rsa.pub >> /root/.ssh/authorized_keys` 添加自己的公钥到认可文件里
+3. 修改SSH的配置文件 `vi/etc/ssh/sshd_config` ,取消掉注释
+     ```
+        RSAAuthentication yes
+        PubkeyAuthentication yes
+        
+        AuthorizedKeysFile .ssh/authorized_keys
+        
+        PasswordAuthentication no
+     ```
+4. 修改权限 `chmod 600 /root/.ssh/authorized_keys`
+5. 重启服务 `service sshd restart`
+
