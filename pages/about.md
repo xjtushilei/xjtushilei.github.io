@@ -22,7 +22,6 @@ permalink: /about/
 ## 联系
 
 * GitHub：[@xjtushilei](https://github.com/xjtushilei)
-* Coding.net：[@xjtushilei](https://coding.net/u/xjtushilei)
 * E-mail: [xjtushilei@foxmail.com](mailto:xjtushilei@foxmail?subject=visit+xjtushilei.com+Home&body=Hello！shilei,你好)
 * QQ：[@晨曦的光风乾最后一抹忧伤](http://wpa.qq.com/msgrd?v=3&uin=619983341&site=qq&menu=yes)
 * Zhihu：[@知乎-scriptshi](https://www.zhihu.com/people/scriptshi/activities)
@@ -74,7 +73,7 @@ permalink: /about/
 2014-2016 |西安交通大学|朋辈辅导员
 2014 | 陕西省红色根据地考察实践 |队长
 
-## [简历.pdf](/cv/Java研发工程师（实习）-石磊-西安交通大学-研二.pdf)
+## [简历.pdf](/cv/石磊.pdf)
 
 
 ## Skill Keywords
