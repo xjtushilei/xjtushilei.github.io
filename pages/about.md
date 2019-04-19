@@ -38,7 +38,7 @@ permalink: /about/
 
 ## Skill Keywords
 
-#### [简历.pdf](/cv/石磊.pdf)
+##### [resume.pdf](/cv/shilei-resume.pdf)
 
 #### Professional Background
 <div class="btn-inline">
