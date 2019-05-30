@@ -2,13 +2,13 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.xjtushilei.com
+url: https://xjtushilei.github.io
 date_format: "ordinal"
 title_head: ScriptShi
 title: ScriptShi
-subtitle: "社会主义好！"
+subtitle: "life and work and learning"
 description: "石磊(xjtushilei)的个人博客"
-keywords: 石磊, 郭朝彤, 西安交通大学, 交大吴奇隆, xjtushilei, ScriptShi
+keywords: 石磊,西安交通大学, xjtushilei, ScriptShi
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
