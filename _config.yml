@@ -101,3 +101,5 @@ google:
 Back_end: [Java, Python, Go, Mysql, MongoDB, Redis, Etcd, Spring Family Bucket, RPC, Docker, DevOps, Operation, System Architecture, ElasticSearch, Weixin, Keras, Distributed system]
 Fore_end: [Html5, Js, Jquery, AngularJS, Vue, Bootstrap, Echarts, D3, Android]
 Professional_Background: [Knowledge Graph, Sparql, Search, Natural Language Processing, Machine Learning, Deep Learning, WordEmbedding, Distributed system]
+
+theme: jekyll-theme-cayman
