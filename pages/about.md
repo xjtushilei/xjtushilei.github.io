@@ -16,7 +16,7 @@ permalink: /about/
 
 ## 坚信
 
-「社会主义好」。
+「认真生活，快乐工作」。
 
 ## 联系
 
@@ -35,10 +35,7 @@ permalink: /about/
     
 
 
-
 ## Skill Keywords
-
-##### [resume.pdf](/cv/shilei-resume.pdf)
 
 #### Professional Background
 <div class="btn-inline">
